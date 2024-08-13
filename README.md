@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xluckydegen
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning solidity
+- 🌱 I’m still learning solidity stuff
 - 💞️ I’m looking to collaborate on crypto/solidity/contracts
 
 
